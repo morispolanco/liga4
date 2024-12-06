@@ -1,0 +1,7 @@
+streamlit
+pandas
+hashlib
+sqlite3
+uuid
+datetime
+streamlit-authenticator
